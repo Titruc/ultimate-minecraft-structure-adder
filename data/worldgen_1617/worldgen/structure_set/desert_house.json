@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:desert_house",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 809798545,
+    "frequency": 0.3,
+    "spacing": 30,
+    "separation": 5
+  }
+}

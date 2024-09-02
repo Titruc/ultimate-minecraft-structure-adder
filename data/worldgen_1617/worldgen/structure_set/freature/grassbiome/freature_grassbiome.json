@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:freature/grassbiome/freature_grassbiome",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 822373047,
+    "frequency": 0.7,
+    "spacing": 20,
+    "separation": 5
+  }
+}

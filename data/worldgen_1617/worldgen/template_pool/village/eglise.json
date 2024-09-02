@@ -1,0 +1,24 @@
+{
+  "name": "worldgen_1617:village/eglise",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:village/eglise_1",
+        "processors": "worldgen_1617:glass_pane",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:village/eglise_2",
+        "processors": "worldgen_1617:glass_pane",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

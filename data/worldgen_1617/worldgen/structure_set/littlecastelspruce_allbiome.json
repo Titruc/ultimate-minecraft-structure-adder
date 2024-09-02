@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:littlecastelspruce_allbiome",
+      "weight": 25
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 546045517,
+    "frequency": 0.4,
+    "spacing": 60,
+    "separation": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:littlecastel_allbiome",
+      "weight": 25
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 114372023,
+    "frequency": 0.5,
+    "spacing": 32,
+    "separation": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:light_tower",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 893556045,
+    "frequency": 0.3,
+    "spacing": 45,
+    "separation": 5
+  }
+}

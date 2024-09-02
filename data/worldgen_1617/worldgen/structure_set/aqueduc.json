@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:aqueduc",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 967098545,
+    "frequency": 0.31,
+    "spacing": 36,
+    "separation": 5
+  }
+}

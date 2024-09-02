@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:wanderingtrader_allbiome",
+      "weight": 25
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 100744324,
+    "frequency": 0.4,
+    "spacing": 67,
+    "separation": 4
+  }
+}

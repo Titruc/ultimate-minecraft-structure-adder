@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:old_rock",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 499506290,
+    "frequency": 0.22,
+    "spacing": 36,
+    "separation": 5
+  }
+}

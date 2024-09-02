@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:wall",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 787072083,
+    "frequency": 0.06,
+    "spacing": 84,
+    "separation": 5
+  }
+}

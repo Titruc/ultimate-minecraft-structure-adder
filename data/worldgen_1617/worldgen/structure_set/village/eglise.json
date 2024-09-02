@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:village/eglise",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 123468075,
+    "frequency": 0.23,
+    "spacing": 56,
+    "separation": 5
+  }
+}

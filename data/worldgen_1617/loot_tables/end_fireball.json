@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 9
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "minecraft:fire_charge"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 60,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Fireworks:{Explosions:[{Type:2,Trail:1,Colors:[I;8073150,12801229,15790320],FadeColors:[I;2651799,6719955]}],Flight:3}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

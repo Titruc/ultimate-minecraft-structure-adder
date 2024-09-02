@@ -1,0 +1,87 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:white_stained_glass",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:red_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:white_stained_glass",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:light_blue_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:white_stained_glass",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:yellow_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:white_stained_glass",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:orange_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:white_stained_glass",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:blue_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:white_stained_glass",
+            "probability": 0.3
+          },
+          "output_state": {
+            "Name": "minecraft:green_stained_glass"
+          }
+        }
+      ]
+    }
+  ]
+}

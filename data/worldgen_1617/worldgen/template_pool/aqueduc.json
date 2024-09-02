@@ -1,0 +1,33 @@
+{
+  "name": "worldgen_1617:aqueduc",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:aqueduc/aqueduc_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 17,
+      "element": {
+        "location": "worldgen_1617:aqueduc/aqueduc_2",
+        "processors": "worldgen_1617:aqueduc",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "worldgen_1617:aqueduc/aqueduc_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

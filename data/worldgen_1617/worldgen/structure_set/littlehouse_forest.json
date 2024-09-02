@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:littlehouse_forest",
+      "weight": 27
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 286475176,
+    "frequency": 0.62,
+    "spacing": 52,
+    "separation": 4
+  }
+}

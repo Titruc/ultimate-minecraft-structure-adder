@@ -1,0 +1,88 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 2,
+        "max": 16
+      },
+      "bonus_rolls": {
+        "type": "minecraft:uniform",
+        "min": 0,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "quality": 1,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "quality": 1,
+          "name": "minecraft:book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "quality": 1,
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:comparator"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "quality": 1,
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:cobweb"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:map/ancien_city"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "quality": 1,
+          "name": "minecraft:map/littlecastel_allbiome"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "quality": 1,
+          "name": "minecraft:map/pillager_outpost"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "quality": 1,
+          "name": "minecraft:map/village"
+        }
+      ]
+    }
+  ]
+}

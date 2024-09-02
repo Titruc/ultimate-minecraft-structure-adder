@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:tower_flowerswarp",
+      "weight": 7
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 665751246,
+    "frequency": 0.52,
+    "spacing": 53,
+    "separation": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:elder_c/end/ship",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 308807225,
+    "frequency": 0.6,
+    "spacing": 25,
+    "separation": 5
+  }
+}

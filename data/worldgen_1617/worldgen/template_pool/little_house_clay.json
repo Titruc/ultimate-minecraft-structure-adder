@@ -1,0 +1,87 @@
+{
+  "name": "worldgen_1617:little_house_clay",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_5",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_6",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_7",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_8",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_9",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:little_house_clay/little_house_clay_10",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

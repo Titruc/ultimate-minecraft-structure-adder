@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:tower_plainflower",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 339873157,
+    "frequency": 0.64,
+    "spacing": 54,
+    "separation": 5
+  }
+}

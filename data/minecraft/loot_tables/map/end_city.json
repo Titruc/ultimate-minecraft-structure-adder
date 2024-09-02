@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "quality": 1,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "worldgen_1617:end_city",
+              "decoration": "banner_purple",
+              "zoom": 3,
+              "search_radius": 50,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "end city location map"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{MapColor:11209899}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

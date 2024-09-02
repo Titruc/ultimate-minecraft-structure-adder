@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:little_house_clay",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 209789509,
+    "frequency": 0.36,
+    "spacing": 47,
+    "separation": 5
+  }
+}

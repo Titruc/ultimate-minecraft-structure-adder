@@ -1,0 +1,23 @@
+{
+  "name": "worldgen_1617:tente/wanderingtrader_allbiome",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:bateau/bateau_pillard",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:bateau/bateau_village",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

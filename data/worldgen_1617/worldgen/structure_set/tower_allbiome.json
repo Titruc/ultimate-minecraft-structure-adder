@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:tower_allbiome",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 777224571,
+    "frequency": 0.51,
+    "spacing": 37,
+    "separation": 5
+  }
+}

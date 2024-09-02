@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:tower_plainbirchtaiga",
+      "weight": 11
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 838153314,
+    "frequency": 0.64,
+    "spacing": 56,
+    "separation": 6
+  }
+}

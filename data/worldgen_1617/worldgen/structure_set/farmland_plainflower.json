@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:farmland_plainflower",
+      "weight": 25
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 141237900,
+    "frequency_reduction_method": "default",
+    "frequency": 0.8,
+    "spacing": 36,
+    "separation": 10
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:freature/allbiome/freature_allbiome",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 206172639,
+    "frequency": 0.6,
+    "spacing": 30,
+    "separation": 5
+  }
+}

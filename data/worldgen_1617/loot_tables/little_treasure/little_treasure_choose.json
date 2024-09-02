@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 7,
+        "max": 10
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "worldgen_1617:little_treasure/little_treasure_2"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "worldgen_1617:little_treasure/little_treasure_1"
+        }
+      ]
+    }
+  ]
+}

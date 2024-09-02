@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:birch_tree",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 887098315,
+    "frequency": 69,
+    "spacing": 1,
+    "separation": 0
+  }
+}

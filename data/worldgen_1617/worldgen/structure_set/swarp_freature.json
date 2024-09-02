@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:swarp_freature",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 209779545,
+    "frequency": 0.56,
+    "spacing": 27,
+    "separation": 5
+  }
+}

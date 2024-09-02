@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:boat",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 609109788,
+    "frequency": 0.3,
+    "spacing": 35,
+    "separation": 5
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "worldgen_1617:elder_c/nether/nether_temple",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:elder_c/nether/nether_temple_1",
+        "processors": "worldgen_1617:wither",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:elder_c/nether/nether_temple_2",
+        "processors": "worldgen_1617:wither",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:elder_c/nether/nether_temple_3",
+        "processors": "worldgen_1617:wither",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:elder_c/nether/nether_temple_4",
+        "processors": "worldgen_1617:wither",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:elder_c/nether/nether_temple_5",
+        "processors": "worldgen_1617:wither",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "location": "worldgen_1617:elder_c/nether/nether_temple_6",
+        "processors": "worldgen_1617:wither",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

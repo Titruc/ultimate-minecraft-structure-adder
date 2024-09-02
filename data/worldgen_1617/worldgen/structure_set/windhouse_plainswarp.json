@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:windhouse_plainswarp",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 163075203,
+    "frequency": 0.54,
+    "spacing": 53,
+    "separation": 5
+  }
+}

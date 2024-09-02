@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "worldgen_1617:catapulte_plaindeserttaiga",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 258322855,
+    "frequency": 0.8,
+    "spacing": 57,
+    "separation": 5
+  }
+}
